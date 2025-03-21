@@ -1,2 +1,2 @@
-print "helloo"
-print "hiiiiiiiiiiiiiii"
+print ("helloo")
+print ("hiiiiiiiiiiiiiii")
